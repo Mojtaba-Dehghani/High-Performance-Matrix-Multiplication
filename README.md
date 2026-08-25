@@ -181,6 +181,8 @@ gcc -O3 -mavx2 -mfma -fopenmp -march=native -ffast-math -o matrix_engine main.c
 * **Author:** Mojtaba Dehghani Arani (مجتبی دهقانی آرانی)
 * **Course:** Microprocessor Systems Design (طراحی سیستم‌های میکروپروسسوری)
 * **Supervising Professor:** Dr. Movahedin (دکتر موحدین)
+* **Institution:** Sharif University of Technology (دانشگاه صنعتی شریف)
+* **Department:** Department of Electrical Engineering (دانشکده مهندسی برق)
 
 ---
 
