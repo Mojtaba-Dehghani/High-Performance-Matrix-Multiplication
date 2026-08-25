@@ -178,7 +178,6 @@ gcc -O3 -mavx2 -mfma -fopenmp -march=native -ffast-math -o matrix_engine main.c
 ## 👥 Author & Academic Context
 
 * **Author:** Mojtaba Dehghani Arani (مجتبی دهقانی آرانی)
-* **Student ID:** 402101703
 * **Course:** Microprocessor Systems Design (طراحی سیستم‌های میکروپروسسوری)
 * **Supervising Professor:** Dr. Movahedin (دکتر موحدین)
 
