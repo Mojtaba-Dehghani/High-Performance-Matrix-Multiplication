@@ -1,5 +1,5 @@
 # 🚀 High-Performance Matrix Multiplication Optimization Engine
-### *From Naive $O(N^3)$ Implementation to Hardware-Saturating Multi-Core SIMD Kernel Achieving a **3,176.44× Speedup***
+### *From Naive O(N^3) Implementation to Hardware-Saturating Multi-Core SIMD Kernel Achieving a **3,176.44× Speedup***
 
 [![Language](https://img.shields.io/badge/Language-C%20%2F%20C%2B%2B-00599C?logo=c&logoColor=white)](https://github.com/)
 [![Architecture](https://img.shields.io/badge/Architecture-x86__64%20%7C%20AVX2%20%7C%20FMA-red?logo=intel&logoColor=white)](https://github.com/)
