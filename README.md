@@ -6,6 +6,7 @@
 [![Parallelism](https://img.shields.io/badge/Parallelism-OpenMP%20%7C%20SIMD%20%7C%20ILP-orange)](https://github.com/)
 [![Speedup](https://img.shields.io/badge/Speedup-3176.44x%20Cumulative-success?style=for-the-badge&logo=speedtest)](https://github.com/)
 [![Academic](https://img.shields.io/badge/Course-Microprocessor%20Systems%20Design-blueviolet)](https://github.com/)
+[![University](https://img.shields.io/badge/University-Sharif%20University%20of%20Technology-003366?style=flat&logo=academia&logoColor=white)](https://en.sharif.ir/)
 
 ---
 
